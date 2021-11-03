@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Empresa",
+    "path": "/Empresa",
+    "component": "D:\\\\buzz-demo\\\\pages\\\\Empresa.vue",
+    "chunkName": "pages/Empresa",
+    "_name": "_65536d6e"
+  },
+  {
+    "name": "Registrate",
+    "path": "/Registrate",
+    "component": "D:\\\\buzz-demo\\\\pages\\\\Registrate.vue",
+    "chunkName": "pages/Registrate",
+    "_name": "_46256b01"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\buzz-demo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c1a58ed2"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "BaseArrow": {
+    "description": "Auto imported from components/BaseArrow.vue"
+  },
+  "BaseInput": {
+    "description": "Auto imported from components/BaseInput.vue"
+  },
+  "BaseModal": {
+    "description": "Auto imported from components/BaseModal.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "BuzzEmpresaBaseSlider": {
+    "description": "Auto imported from components/BuzzEmpresa/BaseSlider.vue"
+  },
+  "BuzzEmpresaEmprezaHome": {
+    "description": "Auto imported from components/BuzzEmpresa/EmprezaHome.vue"
+  },
+  "IndexComponentsBaseMarque": {
+    "description": "Auto imported from components/indexComponents/BaseMarque.vue"
+  },
+  "IndexComponentsMobileMenu": {
+    "description": "Auto imported from components/indexComponents/MobileMenu.vue"
+  },
+  "IndexComponentsNavDrawer": {
+    "description": "Auto imported from components/indexComponents/NavDrawer.vue"
+  },
+  "IndexComponentsToggleButton": {
+    "description": "Auto imported from components/indexComponents/ToggleButton.vue"
+  },
+  "RegistraEmpresaUno": {
+    "description": "Auto imported from components/RegistraEmpresaComponents/RegistraEmpresaUno.vue"
+  },
+  "RegistraEmpresaComponentsTipoUsuario": {
+    "description": "Auto imported from components/RegistraEmpresaComponents/TipoUsuario.vue"
+  },
+  "RegistraTarjetaCuatro": {
+    "description": "Auto imported from components/RegistraTarjetaComponents/RegistraTarjetaCuatro.vue"
+  },
+  "RegistraTarjetaTres": {
+    "description": "Auto imported from components/RegistraTarjetaComponents/RegistraTarjetaTres.vue"
+  },
+  "SubcomponentsBaseArrow": {
+    "description": "Auto imported from components/subcomponents/BaseArrow.vue"
+  },
+  "SubcomponentsGenericSlider": {
+    "description": "Auto imported from components/subcomponents/GenericSlider.vue"
+  },
+  "SubcomponentsIconContainer": {
+    "description": "Auto imported from components/subcomponents/iconContainer.vue"
+  },
+  "SubcomponentsIconToggleRow": {
+    "description": "Auto imported from components/subcomponents/iconToggleRow.vue"
+  },
+  "SubcomponentsNegociosSelected": {
+    "description": "Auto imported from components/subcomponents/NegociosSelected.vue"
+  },
+  "SubcomponentsSquareBgHeader": {
+    "description": "Auto imported from components/subcomponents/SquareBgHeader.vue"
+  },
+  "SubcomponentsToggleButton": {
+    "description": "Auto imported from components/subcomponents/ToggleButton.vue"
+  },
+  "SvgBar": {
+    "description": "Auto imported from components/svgComponents/SvgBar.vue"
+  },
+  "SvgBoneless": {
+    "description": "Auto imported from components/svgComponents/SvgBoneless.vue"
+  },
+  "SvgBotana": {
+    "description": "Auto imported from components/svgComponents/SvgBotana.vue"
+  },
+  "SvgBurger": {
+    "description": "Auto imported from components/svgComponents/SvgBurger.vue"
+  },
+  "SvgCafe": {
+    "description": "Auto imported from components/svgComponents/SvgCafe.vue"
+  },
+  "SvgCarne": {
+    "description": "Auto imported from components/svgComponents/SvgCarne.vue"
+  },
+  "SvgComida": {
+    "description": "Auto imported from components/svgComponents/SvgComida.vue"
+  },
+  "SvgConvenencia": {
+    "description": "Auto imported from components/svgComponents/SvgConvenencia.vue"
+  },
+  "SvgEntretenimiento": {
+    "description": "Auto imported from components/svgComponents/SvgEntretenimiento.vue"
+  },
+  "SvgGasolina": {
+    "description": "Auto imported from components/svgComponents/SvgGasolina.vue"
+  },
+  "SvgGourmet": {
+    "description": "Auto imported from components/svgComponents/SvgGourmet.vue"
+  },
+  "SvgHotdog": {
+    "description": "Auto imported from components/svgComponents/SvgHotdog.vue"
+  },
+  "SvgOtro": {
+    "description": "Auto imported from components/svgComponents/SvgOtro.vue"
+  },
+  "SvgPastel": {
+    "description": "Auto imported from components/svgComponents/SvgPastel.vue"
+  },
+  "SvgPescado": {
+    "description": "Auto imported from components/svgComponents/SvgPescado.vue"
+  },
+  "SvgPizza": {
+    "description": "Auto imported from components/svgComponents/SvgPizza.vue"
+  },
+  "SvgPollo": {
+    "description": "Auto imported from components/svgComponents/SvgPollo.vue"
+  },
+  "SvgSalud": {
+    "description": "Auto imported from components/svgComponents/SvgSalud.vue"
+  },
+  "SvgSushi": {
+    "description": "Auto imported from components/svgComponents/SvgSushi.vue"
+  },
+  "SvgTaco": {
+    "description": "Auto imported from components/svgComponents/SvgTaco.vue"
+  },
+  "BuzzEmpresaSubcomponentsBaseHeader": {
+    "description": "Auto imported from components/BuzzEmpresa/subcomponents/BaseHeader.vue"
+  },
+  "BuzzEmpresaSubcomponentsBaseingresos": {
+    "description": "Auto imported from components/BuzzEmpresa/subcomponents/Baseingresos.vue"
+  },
+  "BuzzEmpresaSubcomponentsDonutChart": {
+    "description": "Auto imported from components/BuzzEmpresa/subcomponents/DonutChart.vue"
+  },
+  "BuzzEmpresaSubcomponentsDoughnutChart": {
+    "description": "Auto imported from components/BuzzEmpresa/subcomponents/DoughnutChart.vue"
+  }
+}
